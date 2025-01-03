@@ -1,0 +1,2 @@
+# output
+Freeform macroeconomics blog
