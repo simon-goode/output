@@ -201,6 +201,15 @@ li + li {
     color: var(--black);
 }
 
+.post-blurb {
+    font-size: 16px;
+    color: var(--darkgrey);
+    margin-left: 6%;
+    margin-right: 35%;
+    margin-top: -4%;
+    text-align: left;
+}
+
 .he-3 {
     position: relative;
     padding-bottom: 1px;
@@ -224,11 +233,12 @@ li + li {
 }
 
 h6 {
+    font-weight: normal;
     padding-top: 0px;
     margin-top: 0px;
     padding-bottom: 0px;
     margin-bottom: 35px;
-    color: var(--lightgrey);
+    color: var(--darkgrey);
 }
 
 p a {
